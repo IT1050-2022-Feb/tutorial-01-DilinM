@@ -16,7 +16,7 @@ int main() {
    
    avg = (m1+m2)/2;
    
-   printf("Average = "%.2f", avg);
+   printf("Average = %.2f", avg);
   return 0;
 }
 
